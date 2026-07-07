@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saimpu/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Saimpu/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Saimpu/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2401-longest-nice-subarray](https://github.com/Saimpu/LeetCode/tree/master/2401-longest-nice-subarray) |
 ## Array
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Saimpu/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Saimpu/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2401-longest-nice-subarray](https://github.com/Saimpu/LeetCode/tree/master/2401-longest-nice-subarray) |
 ## Binary Search
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Saimpu/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Saimpu/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
