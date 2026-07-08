@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Saimpu/LeetCode/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/Saimpu/LeetCode/tree/master/0441-arranging-coins) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Saimpu/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Saimpu/LeetCode/tree/master/0441-arranging-coins) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Saimpu/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
