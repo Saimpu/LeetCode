@@ -3,9 +3,9 @@ class Solution {
         int i=0;
         int j=citations.length-1;
         int n=citations.length;
-        if(n<=1){
-            return citations[0]>0?1:0;
-        }
+        // if(n<=1){
+        //     return citations[0]>0?1:0;
+        // }
         while(i<=j){
             int mid = i+(j-i)/2;
             int papers = n-mid;
