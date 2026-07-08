@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/Saimpu/LeetCode/tree/master/0441-arranging-coins) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Saimpu/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2401-longest-nice-subarray](https://github.com/Saimpu/LeetCode/tree/master/2401-longest-nice-subarray) |
+## Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/Saimpu/LeetCode/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
