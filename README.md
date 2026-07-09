@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Saimpu/LeetCode/tree/master/0162-find-peak-element) |
 | [0275-h-index-ii](https://github.com/Saimpu/LeetCode/tree/master/0275-h-index-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saimpu/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Saimpu/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Saimpu/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Saimpu/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2401-longest-nice-subarray](https://github.com/Saimpu/LeetCode/tree/master/2401-longest-nice-subarray) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Saimpu/LeetCode/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/Saimpu/LeetCode/tree/master/0441-arranging-coins) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saimpu/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Saimpu/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Saimpu/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
