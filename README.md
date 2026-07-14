@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saimpu/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Saimpu/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Saimpu/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Saimpu/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2401-longest-nice-subarray](https://github.com/Saimpu/LeetCode/tree/master/2401-longest-nice-subarray) |
 ## Binary Search
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Saimpu/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saimpu/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Saimpu/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Saimpu/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Greedy
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Saimpu/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Saimpu/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -64,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Saimpu/LeetCode/tree/master/0278-first-bad-version) |
+## Two Pointers
+|  |
+| ------- |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Saimpu/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
