@@ -1,33 +1,23 @@
 class Solution {
     public boolean backspaceCompare(String s, String t) {
-        int i = 0;
-        int j = 0;
-        String s1 = "";
-        String s2 = "";
+        
+        StringBuilder s1 = new StringBuilder();
+        StringBuilder s2 = new StringBuilder();
 
-        while (i < s.length() || j < t.length()) {
-
-            if (i < s.length() && s.charAt(i) != '#') {
-                s1 += s.charAt(i);
-                i++;
-            } else if (i < s.length()) {
-                if (s1.length() > 0) {
-                    s1 = s1.substring(0, s1.length() - 1);
-                }
-                i++;
-            }
-
-            if (j < t.length() && t.charAt(j) != '#') {
-                s2 += t.charAt(j);
-                j++;
-            } else if (j < t.length()) {
-                if (s2.length() > 0) {
-                    s2 = s2.substring(0, s2.length() - 1);
-                }
-                j++;
-            }
+        for(int c=0;c<s.length();c++){
+            if(s.charAt(c)=='#'){
+                if(s1.length()>0) s1.deleteCharAt(s1.length()-1);
+            } 
+            else s1.append(s.charAt(c));
         }
 
-        return s1.equals(s2);
+        for(int c=0;c<t.length();c++){
+            if(t.charAt(c)=='#'){
+                if(s2.length()>0) s2.deleteCharAt(s2.length()-1);
+            }
+            else s2.append(t.charAt(c));
+        }
+
+        return s1.toString().equals(s2.toString());
     }
 }
