@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Saimpu/LeetCode/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/Saimpu/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saimpu/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Saimpu/LeetCode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/Saimpu/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Saimpu/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Sliding Window
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Saimpu/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0763-partition-labels](https://github.com/Saimpu/LeetCode/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/Saimpu/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Saimpu/LeetCode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/Saimpu/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Saimpu/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
