@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Saimpu/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Saimpu/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Saimpu/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Saimpu/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Saimpu/LeetCode/tree/master/0443-string-compression) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Saimpu/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Saimpu/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Saimpu/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Saimpu/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Saimpu/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Saimpu/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Saimpu/LeetCode/tree/master/0443-string-compression) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Saimpu/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Saimpu/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Saimpu/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Saimpu/LeetCode/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Saimpu/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Saimpu/LeetCode/tree/master/1191-k-concatenation-maximum-sum) |
 ## Divide and Conquer
