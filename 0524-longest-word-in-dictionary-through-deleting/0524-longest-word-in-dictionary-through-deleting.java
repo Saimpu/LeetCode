@@ -1,11 +1,23 @@
 class Solution {
-    public String findLongestWord(String s, List<String> dictionary) {
-        String ans = "";
+    public static boolean isSubsequence(String s, String t) {
+        int i = 0, j = 0;
 
-        for (String word : dictionary) {
+        while (i < s.length() && j < t.length()) {
+            if (s.charAt(i) == t.charAt(j)) {
+                j++;
+            }
+            i++;
+        }
 
-            if (isSubsequence(s, word)) {
-
+        return j == t.length();
+    }
+    public String findLongestWord(String s, List<String> dict) {
+        int n = dict.size();
+        String ans ="";
+        // int max = 0;
+        for(int i=0;i<n;i++){
+            String word = dict.get(i);
+            if(isSubsequence(s,word)){
                 if (word.length() > ans.length()) {
                     ans = word;
                 } else if (word.length() == ans.length()
@@ -14,20 +26,6 @@ class Solution {
                 }
             }
         }
-
         return ans;
-    }
-
-    private boolean isSubsequence(String s, String word) {
-        int i = 0, j = 0;
-
-        while (i < s.length() && j < word.length()) {
-            if (s.charAt(i) == word.charAt(j)) {
-                j++;
-            }
-            i++;
-        }
-
-        return j == word.length();
     }
 }
