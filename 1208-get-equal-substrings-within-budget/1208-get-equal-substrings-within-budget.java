@@ -5,7 +5,7 @@ class Solution {
         int max =0;
         for(int j=0;j<s.length();j++){
             count+=Math.abs(s.charAt(j)-t.charAt(j));
-            if(count>maxCost){
+            while(count>maxCost){
                 count-=Math.abs(s.charAt(i)-t.charAt(i));
                 i++;
             }
