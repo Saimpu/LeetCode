@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saimpu/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Saimpu/LeetCode/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Saimpu/LeetCode/tree/master/0763-partition-labels) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Saimpu/LeetCode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saimpu/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Saimpu/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/Saimpu/LeetCode/tree/master/0925-long-pressed-name) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Saimpu/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Saimpu/LeetCode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saimpu/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Saimpu/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Saimpu/LeetCode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saimpu/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Saimpu/LeetCode/tree/master/0567-permutation-in-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Saimpu/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Saimpu/LeetCode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saimpu/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Saimpu/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Saimpu/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
