@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saimpu/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Saimpu/LeetCode/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Saimpu/LeetCode/tree/master/0763-partition-labels) |
+| [0791-custom-sort-string](https://github.com/Saimpu/LeetCode/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/Saimpu/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Saimpu/LeetCode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saimpu/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Saimpu/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Saimpu/LeetCode/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Saimpu/LeetCode/tree/master/0763-partition-labels) |
+| [0791-custom-sort-string](https://github.com/Saimpu/LeetCode/tree/master/0791-custom-sort-string) |
 | [0844-backspace-string-compare](https://github.com/Saimpu/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/Saimpu/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0925-long-pressed-name](https://github.com/Saimpu/LeetCode/tree/master/0925-long-pressed-name) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Saimpu/LeetCode/tree/master/0049-group-anagrams) |
 | [0295-find-median-from-data-stream](https://github.com/Saimpu/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Saimpu/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0791-custom-sort-string](https://github.com/Saimpu/LeetCode/tree/master/0791-custom-sort-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Saimpu/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Saimpu/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Prefix Sum
