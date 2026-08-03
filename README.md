@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Saimpu/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saimpu/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Saimpu/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/Saimpu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Saimpu/LeetCode/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Saimpu/LeetCode/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/Saimpu/LeetCode/tree/master/0791-custom-sort-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Saimpu/LeetCode/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Saimpu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Saimpu/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0560-subarray-sum-equals-k](https://github.com/Saimpu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saimpu/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Saimpu/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0890-find-and-replace-pattern](https://github.com/Saimpu/LeetCode/tree/master/0890-find-and-replace-pattern) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Saimpu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Saimpu/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Saimpu/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Saimpu/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
