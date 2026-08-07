@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Saimpu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Saimpu/LeetCode/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Saimpu/LeetCode/tree/master/0763-partition-labels) |
+| [0771-jewels-and-stones](https://github.com/Saimpu/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Saimpu/LeetCode/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/Saimpu/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0930-binary-subarrays-with-sum](https://github.com/Saimpu/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Saimpu/LeetCode/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/Saimpu/LeetCode/tree/master/0686-repeated-string-match) |
 | [0763-partition-labels](https://github.com/Saimpu/LeetCode/tree/master/0763-partition-labels) |
+| [0771-jewels-and-stones](https://github.com/Saimpu/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Saimpu/LeetCode/tree/master/0791-custom-sort-string) |
 | [0844-backspace-string-compare](https://github.com/Saimpu/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/Saimpu/LeetCode/tree/master/0890-find-and-replace-pattern) |
