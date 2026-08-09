@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Saimpu/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Saimpu/LeetCode/tree/master/0169-majority-element) |
 | [0275-h-index-ii](https://github.com/Saimpu/LeetCode/tree/master/0275-h-index-ii) |
+| [0289-game-of-life](https://github.com/Saimpu/LeetCode/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/Saimpu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Saimpu/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0523-continuous-subarray-sum](https://github.com/Saimpu/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/Saimpu/LeetCode/tree/master/0289-game-of-life) |
 | [0844-backspace-string-compare](https://github.com/Saimpu/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
@@ -281,4 +283,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Saimpu/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/Saimpu/LeetCode/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
