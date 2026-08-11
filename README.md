@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Saimpu/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Saimpu/LeetCode/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/Saimpu/LeetCode/tree/master/0890-find-and-replace-pattern) |
+| [0904-fruit-into-baskets](https://github.com/Saimpu/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/Saimpu/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/Saimpu/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Saimpu/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Saimpu/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saimpu/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Saimpu/LeetCode/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/Saimpu/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Saimpu/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Saimpu/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Saimpu/LeetCode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saimpu/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Saimpu/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0890-find-and-replace-pattern](https://github.com/Saimpu/LeetCode/tree/master/0890-find-and-replace-pattern) |
+| [0904-fruit-into-baskets](https://github.com/Saimpu/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Saimpu/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0929-unique-email-addresses](https://github.com/Saimpu/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/Saimpu/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
