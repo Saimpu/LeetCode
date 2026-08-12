@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Saimpu/LeetCode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saimpu/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/Saimpu/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saimpu/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/Saimpu/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Saimpu/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Saimpu/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2401-longest-nice-subarray](https://github.com/Saimpu/LeetCode/tree/master/2401-longest-nice-subarray) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saimpu/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Array
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Saimpu/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Saimpu/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2401-longest-nice-subarray](https://github.com/Saimpu/LeetCode/tree/master/2401-longest-nice-subarray) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saimpu/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/Saimpu/LeetCode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
