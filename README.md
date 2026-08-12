@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Saimpu/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/Saimpu/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0981-time-based-key-value-store](https://github.com/Saimpu/LeetCode/tree/master/0981-time-based-key-value-store) |
+| [1002-find-common-characters](https://github.com/Saimpu/LeetCode/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Saimpu/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Saimpu/LeetCode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saimpu/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/Saimpu/LeetCode/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/Saimpu/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0981-time-based-key-value-store](https://github.com/Saimpu/LeetCode/tree/master/0981-time-based-key-value-store) |
+| [1002-find-common-characters](https://github.com/Saimpu/LeetCode/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Saimpu/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Saimpu/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Saimpu/LeetCode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Saimpu/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0929-unique-email-addresses](https://github.com/Saimpu/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/Saimpu/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [1002-find-common-characters](https://github.com/Saimpu/LeetCode/tree/master/1002-find-common-characters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saimpu/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Saimpu/LeetCode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Saimpu/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
