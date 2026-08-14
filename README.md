@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saimpu/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/Saimpu/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saimpu/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Saimpu/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Saimpu/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Saimpu/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Saimpu/LeetCode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Saimpu/LeetCode/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Saimpu/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Saimpu/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2401-longest-nice-subarray](https://github.com/Saimpu/LeetCode/tree/master/2401-longest-nice-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saimpu/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Saimpu/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
 | ------- |
