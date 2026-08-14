@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Saimpu/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Saimpu/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Saimpu/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Saimpu/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Saimpu/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2401-longest-nice-subarray](https://github.com/Saimpu/LeetCode/tree/master/2401-longest-nice-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saimpu/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Saimpu/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Saimpu/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Saimpu/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Saimpu/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Saimpu/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3731-find-missing-elements](https://github.com/Saimpu/LeetCode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
