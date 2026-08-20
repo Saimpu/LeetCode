@@ -13,14 +13,12 @@ class Solution {
                 li2.add(nums[i]);
             }
         }
+        li1.addAll(li2);
 
-        List<Integer> result = new ArrayList<>(li1);
-        result.addAll(li2);
+        int[] arr = new int[li1.size()];
 
-        int[] arr = new int[result.size()];
-
-        for (int i = 0; i < result.size(); i++) {
-            arr[i] = result.get(i);
+        for (int i = 0; i < li1.size(); i++) {
+            arr[i] = li1.get(i);
         }
 
         return arr;
