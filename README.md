@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Saimpu/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/Saimpu/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Saimpu/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Saimpu/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Interactive
 |  |
 | ------- |
