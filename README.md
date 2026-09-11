@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Saimpu/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Saimpu/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Saimpu/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/Saimpu/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Saimpu/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Saimpu/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Saimpu/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Saimpu/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Saimpu/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Saimpu/LeetCode/tree/master/0202-happy-number) |
+| [0227-basic-calculator-ii](https://github.com/Saimpu/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0441-arranging-coins](https://github.com/Saimpu/LeetCode/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/Saimpu/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/Saimpu/LeetCode/tree/master/0976-largest-perimeter-triangle) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/Saimpu/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0844-backspace-string-compare](https://github.com/Saimpu/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
