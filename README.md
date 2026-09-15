@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Saimpu/LeetCode/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/Saimpu/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/Saimpu/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [1006-clumsy-factorial](https://github.com/Saimpu/LeetCode/tree/master/1006-clumsy-factorial) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Saimpu/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Saimpu/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Interactive
@@ -326,12 +327,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Saimpu/LeetCode/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/Saimpu/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Saimpu/LeetCode/tree/master/0856-score-of-parentheses) |
+| [1006-clumsy-factorial](https://github.com/Saimpu/LeetCode/tree/master/1006-clumsy-factorial) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Saimpu/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Simulation
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/Saimpu/LeetCode/tree/master/0289-game-of-life) |
 | [0844-backspace-string-compare](https://github.com/Saimpu/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1006-clumsy-factorial](https://github.com/Saimpu/LeetCode/tree/master/1006-clumsy-factorial) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Saimpu/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Saimpu/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Design
