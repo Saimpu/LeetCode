@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Saimpu/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Saimpu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Saimpu/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Saimpu/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Saimpu/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Saimpu/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Saimpu/LeetCode/tree/master/0169-majority-element) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Saimpu/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Saimpu/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Saimpu/LeetCode/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Saimpu/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Saimpu/LeetCode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/Saimpu/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0441-arranging-coins](https://github.com/Saimpu/LeetCode/tree/master/0441-arranging-coins) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Saimpu/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Saimpu/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0385-mini-parser](https://github.com/Saimpu/LeetCode/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/Saimpu/LeetCode/tree/master/0394-decode-string) |
