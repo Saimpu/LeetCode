@@ -28,8 +28,6 @@
  */
 class Solution {
     public NestedInteger deserialize(String s) {
-
-        // Case: single integer
         if(s.charAt(0) != '['){
             return new NestedInteger(Integer.parseInt(s));
         }
@@ -54,7 +52,6 @@ class Solution {
                 st.push(new NestedInteger());
             }
             else if(ch == ','){
-
                 if(hasNumber){
                     if(negative){
                         num = -num;
