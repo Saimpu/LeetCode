@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Saimpu/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Saimpu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Saimpu/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0682-baseball-game](https://github.com/Saimpu/LeetCode/tree/master/0682-baseball-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saimpu/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Saimpu/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0890-find-and-replace-pattern](https://github.com/Saimpu/LeetCode/tree/master/0890-find-and-replace-pattern) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Saimpu/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0385-mini-parser](https://github.com/Saimpu/LeetCode/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/Saimpu/LeetCode/tree/master/0394-decode-string) |
+| [0682-baseball-game](https://github.com/Saimpu/LeetCode/tree/master/0682-baseball-game) |
 | [0726-number-of-atoms](https://github.com/Saimpu/LeetCode/tree/master/0726-number-of-atoms) |
 | [0844-backspace-string-compare](https://github.com/Saimpu/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Saimpu/LeetCode/tree/master/0856-score-of-parentheses) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/Saimpu/LeetCode/tree/master/0289-game-of-life) |
+| [0682-baseball-game](https://github.com/Saimpu/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Saimpu/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1006-clumsy-factorial](https://github.com/Saimpu/LeetCode/tree/master/1006-clumsy-factorial) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Saimpu/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
