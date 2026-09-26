@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/Saimpu/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/Saimpu/LeetCode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Saimpu/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0456-132-pattern](https://github.com/Saimpu/LeetCode/tree/master/0456-132-pattern) |
 | [0523-continuous-subarray-sum](https://github.com/Saimpu/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Saimpu/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/Saimpu/LeetCode/tree/master/0525-contiguous-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Saimpu/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Saimpu/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/Saimpu/LeetCode/tree/master/0441-arranging-coins) |
+| [0456-132-pattern](https://github.com/Saimpu/LeetCode/tree/master/0456-132-pattern) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saimpu/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Saimpu/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Saimpu/LeetCode/tree/master/0981-time-based-key-value-store) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Saimpu/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0385-mini-parser](https://github.com/Saimpu/LeetCode/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/Saimpu/LeetCode/tree/master/0394-decode-string) |
+| [0456-132-pattern](https://github.com/Saimpu/LeetCode/tree/master/0456-132-pattern) |
 | [0682-baseball-game](https://github.com/Saimpu/LeetCode/tree/master/0682-baseball-game) |
 | [0726-number-of-atoms](https://github.com/Saimpu/LeetCode/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/Saimpu/LeetCode/tree/master/0735-asteroid-collision) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Saimpu/LeetCode/tree/master/0456-132-pattern) |
 | [0895-maximum-frequency-stack](https://github.com/Saimpu/LeetCode/tree/master/0895-maximum-frequency-stack) |
 ## Doubly-Linked List
 |  |
@@ -513,5 +517,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Saimpu/LeetCode/tree/master/0456-132-pattern) |
 | [0901-online-stock-span](https://github.com/Saimpu/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
