@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Saimpu/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/Saimpu/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Saimpu/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Saimpu/LeetCode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saimpu/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Saimpu/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0890-find-and-replace-pattern](https://github.com/Saimpu/LeetCode/tree/master/0890-find-and-replace-pattern) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Saimpu/LeetCode/tree/master/0682-baseball-game) |
 | [0726-number-of-atoms](https://github.com/Saimpu/LeetCode/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/Saimpu/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Saimpu/LeetCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Saimpu/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Saimpu/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0895-maximum-frequency-stack](https://github.com/Saimpu/LeetCode/tree/master/0895-maximum-frequency-stack) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/Saimpu/LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Saimpu/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Saimpu/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Saimpu/LeetCode/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saimpu/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
