@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Saimpu/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Saimpu/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Saimpu/LeetCode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Saimpu/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Saimpu/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saimpu/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Saimpu/LeetCode/tree/master/0443-string-compression) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Saimpu/LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0402-remove-k-digits](https://github.com/Saimpu/LeetCode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Saimpu/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0763-partition-labels](https://github.com/Saimpu/LeetCode/tree/master/0763-partition-labels) |
 | [0976-largest-perimeter-triangle](https://github.com/Saimpu/LeetCode/tree/master/0976-largest-perimeter-triangle) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Saimpu/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0385-mini-parser](https://github.com/Saimpu/LeetCode/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/Saimpu/LeetCode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Saimpu/LeetCode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Saimpu/LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Saimpu/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Saimpu/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Saimpu/LeetCode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Saimpu/LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Saimpu/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Saimpu/LeetCode/tree/master/0503-next-greater-element-ii) |
