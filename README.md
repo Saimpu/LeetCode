@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/Saimpu/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1002-find-common-characters](https://github.com/Saimpu/LeetCode/tree/master/1002-find-common-characters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saimpu/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Saimpu/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1089-duplicate-zeros](https://github.com/Saimpu/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Saimpu/LeetCode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Saimpu/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/Saimpu/LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/Saimpu/LeetCode/tree/master/0901-online-stock-span) |
 | [1006-clumsy-factorial](https://github.com/Saimpu/LeetCode/tree/master/1006-clumsy-factorial) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Saimpu/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Saimpu/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Saimpu/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Saimpu/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Saimpu/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Saimpu/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Saimpu/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/Saimpu/LeetCode/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
@@ -539,5 +542,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Saimpu/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Saimpu/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Saimpu/LeetCode/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Saimpu/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saimpu/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
