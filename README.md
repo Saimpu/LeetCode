@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1673-find-the-most-competitive-subsequence](https://github.com/Saimpu/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Saimpu/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Saimpu/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1856-maximum-subarray-min-product](https://github.com/Saimpu/LeetCode/tree/master/1856-maximum-subarray-min-product) |
 | [2104-sum-of-subarray-ranges](https://github.com/Saimpu/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Saimpu/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Saimpu/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Saimpu/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Saimpu/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Saimpu/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1856-maximum-subarray-min-product](https://github.com/Saimpu/LeetCode/tree/master/1856-maximum-subarray-min-product) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saimpu/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Saimpu/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Saimpu/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1856-maximum-subarray-min-product](https://github.com/Saimpu/LeetCode/tree/master/1856-maximum-subarray-min-product) |
 | [2104-sum-of-subarray-ranges](https://github.com/Saimpu/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
@@ -561,5 +564,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Saimpu/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saimpu/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Saimpu/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1856-maximum-subarray-min-product](https://github.com/Saimpu/LeetCode/tree/master/1856-maximum-subarray-min-product) |
 | [2104-sum-of-subarray-ranges](https://github.com/Saimpu/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1856-maximum-subarray-min-product](https://github.com/Saimpu/LeetCode/tree/master/1856-maximum-subarray-min-product) |
 <!---LeetCode Topics End-->
