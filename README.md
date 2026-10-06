@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Saimpu/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Saimpu/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Saimpu/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Saimpu/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Saimpu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Saimpu/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Saimpu/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Saimpu/LeetCode/tree/master/0078-subsets) |
 | [2401-longest-nice-subarray](https://github.com/Saimpu/LeetCode/tree/master/2401-longest-nice-subarray) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Saimpu/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
@@ -570,4 +572,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1856-maximum-subarray-min-product](https://github.com/Saimpu/LeetCode/tree/master/1856-maximum-subarray-min-product) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Saimpu/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
