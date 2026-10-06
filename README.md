@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Saimpu/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Saimpu/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/Saimpu/LeetCode/tree/master/0890-find-and-replace-pattern) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saimpu/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/Saimpu/LeetCode/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/Saimpu/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0981-time-based-key-value-store](https://github.com/Saimpu/LeetCode/tree/master/0981-time-based-key-value-store) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Saimpu/LeetCode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Saimpu/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0763-partition-labels](https://github.com/Saimpu/LeetCode/tree/master/0763-partition-labels) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saimpu/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/Saimpu/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Saimpu/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Saimpu/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/Saimpu/LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/Saimpu/LeetCode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Saimpu/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saimpu/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0962-maximum-width-ramp](https://github.com/Saimpu/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1006-clumsy-factorial](https://github.com/Saimpu/LeetCode/tree/master/1006-clumsy-factorial) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Saimpu/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saimpu/LeetCode/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Saimpu/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saimpu/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Saimpu/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Saimpu/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sweep Line
