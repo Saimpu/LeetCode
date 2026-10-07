@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Saimpu/LeetCode/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/Saimpu/LeetCode/tree/master/0191-number-of-1-bits) |
 | [2401-longest-nice-subarray](https://github.com/Saimpu/LeetCode/tree/master/2401-longest-nice-subarray) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Saimpu/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Saimpu/LeetCode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Saimpu/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0324-wiggle-sort-ii](https://github.com/Saimpu/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Saimpu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Saimpu/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
