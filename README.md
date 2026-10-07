@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Saimpu/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Saimpu/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Saimpu/LeetCode/tree/master/0338-counting-bits) |
+| [0461-hamming-distance](https://github.com/Saimpu/LeetCode/tree/master/0461-hamming-distance) |
 | [2401-longest-nice-subarray](https://github.com/Saimpu/LeetCode/tree/master/2401-longest-nice-subarray) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Saimpu/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
