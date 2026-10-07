@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Saimpu/LeetCode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Saimpu/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Saimpu/LeetCode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Saimpu/LeetCode/tree/master/0338-counting-bits) |
 | [2401-longest-nice-subarray](https://github.com/Saimpu/LeetCode/tree/master/2401-longest-nice-subarray) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Saimpu/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saimpu/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/Saimpu/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Saimpu/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Saimpu/LeetCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Saimpu/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/Saimpu/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
