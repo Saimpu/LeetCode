@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Saimpu/LeetCode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Saimpu/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Saimpu/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Saimpu/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Saimpu/LeetCode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Saimpu/LeetCode/tree/master/0338-counting-bits) |
