@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Saimpu/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Saimpu/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Saimpu/LeetCode/tree/master/0169-majority-element) |
+| [0260-single-number-iii](https://github.com/Saimpu/LeetCode/tree/master/0260-single-number-iii) |
 | [0275-h-index-ii](https://github.com/Saimpu/LeetCode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Saimpu/LeetCode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/Saimpu/LeetCode/tree/master/0289-game-of-life) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Saimpu/LeetCode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Saimpu/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Saimpu/LeetCode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Saimpu/LeetCode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Saimpu/LeetCode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Saimpu/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Saimpu/LeetCode/tree/master/0476-number-complement) |
