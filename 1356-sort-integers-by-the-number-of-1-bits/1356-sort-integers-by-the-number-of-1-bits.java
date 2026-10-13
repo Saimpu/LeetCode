@@ -1,19 +1,19 @@
 class Solution {
     public int[] sortByBits(int[] arr) {
-        for(int i = 0;i<arr.length-1;i++){
-           for(int j = i+1;j<arr.length;j++){
-                if(Integer.bitCount(arr[i]) > Integer.bitCount(arr[j])){
-                        int temp = arr[i];
-                        arr[i] = arr[j];
-                        arr[j] = temp;
-                }else if(Integer.bitCount(arr[i]) == Integer.bitCount(arr[j])){
-                    if(arr[i]>arr[j]){
-                        int temp = arr[i];
-                        arr[i] = arr[j];
-                        arr[j] = temp;
-                    }
-                }
-           }
+        Integer[] newarr=new Integer[arr.length];
+        for(int i =0;i<arr.length;i++){
+            newarr[i]=arr[i];
+        }
+        Arrays.sort(newarr, (a,b)->{
+            int a_count=Integer.bitCount(a);
+            int b_count=Integer.bitCount(b);
+            if(a_count!=b_count){
+                return a_count-b_count;
+            }
+            return a-b;
+        });
+        for(int i =0;i<arr.length;i++){
+            arr[i]=newarr[i];
         }
         return arr;
     }
