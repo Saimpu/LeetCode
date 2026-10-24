@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Saimpu/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Saimpu/LeetCode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Saimpu/LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Saimpu/LeetCode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Saimpu/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Saimpu/LeetCode/tree/master/0476-number-complement) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Saimpu/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Saimpu/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Saimpu/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Saimpu/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Saimpu/LeetCode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/Saimpu/LeetCode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Saimpu/LeetCode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Saimpu/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Saimpu/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Saimpu/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Saimpu/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Saimpu/LeetCode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Saimpu/LeetCode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Saimpu/LeetCode/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Saimpu/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
