@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Saimpu/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saimpu/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Saimpu/LeetCode/tree/master/0986-interval-list-intersections) |
+| [0994-rotting-oranges](https://github.com/Saimpu/LeetCode/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/Saimpu/LeetCode/tree/master/1002-find-common-characters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saimpu/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Saimpu/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Saimpu/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/Saimpu/LeetCode/tree/master/0289-game-of-life) |
+| [0994-rotting-oranges](https://github.com/Saimpu/LeetCode/tree/master/0994-rotting-oranges) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Saimpu/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Quicksort
 |  |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Saimpu/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0994-rotting-oranges](https://github.com/Saimpu/LeetCode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
