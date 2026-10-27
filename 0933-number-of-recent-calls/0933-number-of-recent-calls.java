@@ -5,14 +5,11 @@ class RecentCounter {
     }
     
     public int ping(int t) {
-        int c = 0;
         q.offer(t);
-        for(int num : q){
-            if(num>=(t-3000) && num<=t){
-                c++;
-            }
+        while (q.peek() < t - 3000) {
+            q.poll();
         }
-        return c;
+        return q.size();
     }
 }
 
