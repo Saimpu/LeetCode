@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Saimpu/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Saimpu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Saimpu/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0622-design-circular-queue](https://github.com/Saimpu/LeetCode/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/Saimpu/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Saimpu/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Saimpu/LeetCode/tree/master/0739-daily-temperatures) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Saimpu/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Saimpu/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saimpu/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/Saimpu/LeetCode/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Saimpu/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/Saimpu/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Saimpu/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Saimpu/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Saimpu/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Saimpu/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0622-design-circular-queue](https://github.com/Saimpu/LeetCode/tree/master/0622-design-circular-queue) |
 | [0895-maximum-frequency-stack](https://github.com/Saimpu/LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/Saimpu/LeetCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Saimpu/LeetCode/tree/master/0933-number-of-recent-calls) |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Saimpu/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0622-design-circular-queue](https://github.com/Saimpu/LeetCode/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Saimpu/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Saimpu/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/Saimpu/LeetCode/tree/master/1472-design-browser-history) |
