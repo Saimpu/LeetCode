@@ -13,7 +13,7 @@ class Solution {
             }
         }
         int n = senate.length();
-        while(r.size()>0 && d.size()>0 ){
+        while(!r.isEmpty() && !d.isEmpty()){
             int ra = r.poll();
             int di = d.poll();
             if(ra<di){
