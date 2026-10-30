@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Saimpu/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Saimpu/LeetCode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Saimpu/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0649-dota2-senate](https://github.com/Saimpu/LeetCode/tree/master/0649-dota2-senate) |
 | [0686-repeated-string-match](https://github.com/Saimpu/LeetCode/tree/master/0686-repeated-string-match) |
 | [0726-number-of-atoms](https://github.com/Saimpu/LeetCode/tree/master/0726-number-of-atoms) |
 | [0763-partition-labels](https://github.com/Saimpu/LeetCode/tree/master/0763-partition-labels) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Saimpu/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0402-remove-k-digits](https://github.com/Saimpu/LeetCode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Saimpu/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0649-dota2-senate](https://github.com/Saimpu/LeetCode/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/Saimpu/LeetCode/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saimpu/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/Saimpu/LeetCode/tree/master/0976-largest-perimeter-triangle) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Saimpu/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saimpu/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Saimpu/LeetCode/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/Saimpu/LeetCode/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Saimpu/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/Saimpu/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Saimpu/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
