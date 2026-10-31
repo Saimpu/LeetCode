@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Saimpu/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0929-unique-email-addresses](https://github.com/Saimpu/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/Saimpu/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Saimpu/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0962-maximum-width-ramp](https://github.com/Saimpu/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [0976-largest-perimeter-triangle](https://github.com/Saimpu/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saimpu/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Saimpu/LeetCode/tree/master/0791-custom-sort-string) |
 | [0905-sort-array-by-parity](https://github.com/Saimpu/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Saimpu/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Saimpu/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0976-largest-perimeter-triangle](https://github.com/Saimpu/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saimpu/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Saimpu/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Saimpu/LeetCode/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Saimpu/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/Saimpu/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Saimpu/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Saimpu/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Queue
 |  |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Saimpu/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Saimpu/LeetCode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Saimpu/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Saimpu/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1006-clumsy-factorial](https://github.com/Saimpu/LeetCode/tree/master/1006-clumsy-factorial) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Saimpu/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Saimpu/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
