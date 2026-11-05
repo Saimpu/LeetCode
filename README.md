@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Saimpu/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saimpu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Saimpu/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saimpu/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Saimpu/LeetCode/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/Saimpu/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/Saimpu/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0402-remove-k-digits](https://github.com/Saimpu/LeetCode/tree/master/0402-remove-k-digits) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saimpu/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Saimpu/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saimpu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Saimpu/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Saimpu/LeetCode/tree/master/0075-sort-colors) |
