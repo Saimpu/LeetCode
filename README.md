@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saimpu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Saimpu/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Saimpu/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/Saimpu/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Saimpu/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saimpu/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Saimpu/LeetCode/tree/master/0567-permutation-in-string) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Saimpu/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Saimpu/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Saimpu/LeetCode/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Saimpu/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0260-single-number-iii](https://github.com/Saimpu/LeetCode/tree/master/0260-single-number-iii) |
 | [0275-h-index-ii](https://github.com/Saimpu/LeetCode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Saimpu/LeetCode/tree/master/0283-move-zeroes) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saimpu/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Saimpu/LeetCode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Saimpu/LeetCode/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Saimpu/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/Saimpu/LeetCode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Saimpu/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Saimpu/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Saimpu/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Saimpu/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Saimpu/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Saimpu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
