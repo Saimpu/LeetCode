@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Saimpu/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Saimpu/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Saimpu/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3360-stone-removal-game](https://github.com/Saimpu/LeetCode/tree/master/3360-stone-removal-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Saimpu/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Interactive
 |  |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Saimpu/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Saimpu/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Saimpu/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Saimpu/LeetCode/tree/master/3360-stone-removal-game) |
 ## Design
 |  |
 | ------- |
